@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651097831 source:c:\users\kacpi\onedrive\pulpit\cpp\projekt2.1\projekt2.1\main.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+
